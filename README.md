@@ -16,7 +16,9 @@ labels:
   - quality
   - vulnerability
   - coverage
+
 ---
+
 # SonarQube on OpenShift
 This repository contains all of the resources required to deploy a SonarQube server instance into a BCGov OpenShift pathfinder environment, and integrate SonarQube scanning into your Jenkins pipeline.
 
